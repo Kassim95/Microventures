@@ -2,10 +2,13 @@
 
 ## Project setup
 ```
-npm install
-```
+Download the ZIP file
 
-### Compiles and hot-reloads for development
-```
+cd Microventures-master
+
+npm install
+
 npm run serve
 ```
+
+
